@@ -1,0 +1,5 @@
+location            = "East US"
+resource_group_name = "rg-ubuntu-servers"
+admin_username      = "azureadmin"
+
+ssh_public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCXVcc+L8RoxWTcpo3WV89R+qoK5PhtgI28O4wIFBqw2BR5MSLDpfNUQK9pUNhESYVaiusTz3Xr2e5iY8ELJDgoUZl8WzbVgitYSXMhylkvHPwEzja4mEXSOloc3IWlUHpp7g0JPTSVV+iTFOOd4KQAoDF6GVWr7ddN8JhM15icRiYpHzQN9bo0ABIwTHK/7uO2XQSP7h0wRAc+BqSVJomq9wnMptREIzQymdMhV74sMigCx4xLTxwFFqesgQh8tfOqWLvyDbxOypJdV4lwv1bXW/X5E4FnylrzqjiYkdaJFDbj9bSfh5ngJe6LqloHatjvt2X31wJS3pqbG5161hoV"
